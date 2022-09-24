@@ -12,7 +12,7 @@
 * `pkg upgrade -y`
 * `pkg install git -y`
 ```
-git clone https://github.com/AliByte01/TermuxTheme
+git clone https://github.com/GtGnzz/SciTermux
 ```
 * `cd SciTermux`
 * `chmod 777 *`
